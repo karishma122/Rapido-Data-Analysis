@@ -5,6 +5,6 @@ Rapido, a leading ride-hailing service, offers various transport solutions like 
 Conduct a detailed analysis of Rapido's rides dataset to extract business-critical insights and recommend strategies for operational and financial improvement.
 
 ## Workflow
-data clean
+data collection, cleaning, eda and viz insights
 
 ## Insights & Recommendations
