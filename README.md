@@ -14,3 +14,10 @@ The objective of this analysis is to:
 - Identify high-demand services and peak times.
 - Highlight opportunities to improve service offerings and user experience.
 - Present actionable recommendations for strategic decision-making
+
+## Project Workflow
+- Data Loading and Exploration
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Strategic Insights and Recommendations
+- Conclusion and Deliverables
