@@ -5,6 +5,7 @@ Rapido, a leading mobility services provider, operates in a highly competitive m
 - Optimize resource allocation.
 - Increase revenue generation.
 - Reduce ride cancellations.
+
 Using a dataset of 50,000 rides in Bangalore, this project provides insights into service usage, customer behavior, and revenue trends, offering data-driven recommendations for growth and operational efficiency.
 
 ## Project Objective
