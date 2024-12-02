@@ -16,8 +16,7 @@ The objective of this analysis is to:
 - Present actionable recommendations for strategic decision-making
 
 ## Project Workflow
-- Data Loading and Exploration
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Strategic Insights and Recommendations
-- Conclusion and Deliverables
+1. Data Loading and Exploration
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Insights and Recommendations
