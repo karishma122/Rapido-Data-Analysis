@@ -1,10 +1,15 @@
 # Rapido-Data-Analysis
 ## Background
-Rapido, a leading ride-hailing service, offers various transport solutions like bike rides, auto-rickshaws, and parcel deliveries in multiple cities across India. The company aims to optimize its operations, enhance customer satisfaction, and identify growth opportunities in a competitive urban mobility market.
-## Objective
-Conduct a detailed analysis of Rapido's rides dataset to extract business-critical insights and recommend strategies for operational and financial improvement.
+Rapido, a leading mobility services provider, operates in a highly competitive market. With a focus on customer satisfaction and operational excellence, the company aims to:
 
-## Workflow
-data collection, cleaning, eda and viz insights
+- Optimize resource allocation.
+- Increase revenue generation.
+- Reduce ride cancellations.
+Using a dataset of 50,000 rides in Bangalore, this project provides insights into service usage, customer behavior, and revenue trends, offering data-driven recommendations for growth and operational efficiency.
 
-## Insights & Recommendations
+## Project Objective
+The objective of this analysis is to:
+- Uncover patterns in ride demand, cancellations, and revenue.
+- Identify high-demand services and peak times.
+- Highlight opportunities to improve service offerings and user experience.
+- Present actionable recommendations for strategic decision-making
