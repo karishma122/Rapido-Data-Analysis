@@ -1,6 +1,6 @@
 # Rapido-Data-Analysis
 ## Background
-Rapido, a leading mobility services provider, operates in a highly competitive market. With a focus on customer satisfaction and operational excellence, the company aims to:
+Rapido, a leading mobility services provider, operates in a highly competitive market. With a focus on customer satisfaction and operational excellence, The company aims to:
 
 - Optimize resource allocation.
 - Increase revenue generation.
