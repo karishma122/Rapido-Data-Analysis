@@ -17,6 +17,6 @@ The objective of this analysis is to:
 
 ## Project Workflow
 1. Data Loading and Exploration
-2. Data Cleaning and Preprocessing
+2. Data Cleaning and Preprocessing FE
 3. Exploratory Data Analysis (EDA)
 4. Insights and Recommendations
