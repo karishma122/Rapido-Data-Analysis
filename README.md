@@ -10,10 +10,6 @@ Using a dataset of 50,000 rides in Bangalore, This project provides insights int
 
 ## Project Objective
 The objective of this analysis is to:
-- Uncover patterns in ride demand, cancellations, and revenue.
-- Identify high-demand services and peak times.
-- Highlight opportunities to improve service offerings and user experience.
-- Present actionable recommendations for strategic decision-making
 
 ## Project Workflow
 1. Data Loading and Exploration
