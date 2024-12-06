@@ -14,7 +14,7 @@ The objective of this analysis is to:
 - **Understand Service Trends**: Analyze usage patterns and payment preferences to uncover key insights.
 - **Optimize Revenue**: Evaluate revenue distribution and trends to identify growth opportunities.
 - **Enhance Efficiency**: Examine ride statuses to address cancellation issues.
-- **Inform Strategy**: Detect demand patterns to refine pricing and promotional strategies
+- **Inform Strategy**: Detect demand patterns to refine pricing and promotional strategies.
 
 ## Project Workflow
 1. Data Loading and Exploration
