@@ -29,6 +29,27 @@ The objective of this analysis is to:
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.7 or above.
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn.
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/karishma122/Rapido-Data-Analysis.git   
+2. **Navigate to the Project Directory**
+    ```bash
+    cd Rapido-Data-Analysis
+3. **Install Required Libraries**
+    ```bash
+    pip install -r requirements.txt
+4. **Run the Jupyter Notebook**
+    ```bash
+    jupyter notebook Rapido-Data-Analysis.ipynb
+
+---
+
 ## 📊 Insights & Recommendations
 
 ### 📈 Insights
@@ -84,3 +105,10 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to the open-source Python community for providing powerful libraries like Pandas, Seaborn, and Matplotlib, which enabled the analysis.  
 - Inspired by real-world challenges in urban mobility, particularly in optimizing resource allocation and enhancing customer experience.
 
+---
+
+## 📞 Contact Info
+- Name: Karishma Jain
+- Email: jainkarishma0102@gmail.com
+- GitHub: karishma122
+- LinkedIn: Karishma Jain
