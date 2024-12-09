@@ -110,5 +110,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📞 Contact Info
 - Name: Karishma Jain
 - Email: jainkarishma0102@gmail.com
-- GitHub: karishma122
-- LinkedIn: Karishma Jain
+- [LinkedIn](https://www.linkedin.com/in/karishmajain124/)
+- [GitHub](https://github.com/karishma122)
