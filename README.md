@@ -33,7 +33,7 @@ The objective of this analysis is to:
 
 ### Prerequisites
 - Python 3.7 or above.
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn.
+- Libraries: Pandas, Matplotlib, Seaborn.
 
 1. **Clone the Repository**
    ```bash
